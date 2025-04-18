@@ -1,0 +1,52 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff8f0;
+    color: #a31212;
+  }
+  
+  /* Header styling */
+  header {
+  
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+  }
+  
+  header p {
+    font-size: 18px;
+  }
+  
+  /* Main content */
+  .content {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .content p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* Menu section */
+  .menu {
+    margin-top: 30px;
+  }
+  
